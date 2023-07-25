@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Live Site
+[Live React App](https://jmujuru.github.io/Simple-React-Calculator-App/).
+
+
 ## Available Scripts
 
 In the project directory, you can run:
